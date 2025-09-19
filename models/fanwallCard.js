@@ -32,4 +32,4 @@ const fanwallCardSchema = new mongoose.Schema(
     }
 );
 
-module.exports = mongoose.model("fanwallCard",fanwallCardSchema);
+module.exports = mongoose.model("fanwallcard",fanwallCardSchema);
